@@ -1,0 +1,768 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  18 JAN 2018 14:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 458.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1039.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+)
+** ATTENTION: Overriding command lockouts (line 2).
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen125
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen126
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks16
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks17
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\c@ALC@unique=\count106
+\c@ALC@line=\count107
+\c@ALC@rem=\count108
+\c@ALC@depth=\count109
+\ALC@tlm=\skip47
+\algorithmicindent=\skip48
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen136
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen137
+\subfiglabelskip=\skip52
+\c@subfigure=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@lotdepth=\count114
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(./Report.aux
+
+LaTeX Warning: Label `comGamma' multiply defined.
+
+
+LaTeX Warning: Label `gamma100' multiply defined.
+
+)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 14.
+
+-- Lines per column: 56 (exact).
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen138
+\scratchbox=\box30
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen139
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<filter.jpeg, id=1, 1240.635pt x 331.2375pt>
+File: filter.jpeg Graphic file (type jpg)
+ <use filter.jpeg>
+Package pdftex.def Info: filter.jpeg used on input line 43.
+(pdftex.def)             Requested size: 289.07999pt x 77.17871pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 48.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<FilterDiagram.jpg, id=2, 1493.58pt x 823.075pt>
+File: FilterDiagram.jpg Graphic file (type jpg)
+ <use FilterDiagram.jpg>
+Package pdftex.def Info: FilterDiagram.jpg used on input line 50.
+(pdftex.def)             Requested size: 252.94499pt x 139.38084pt.
+
+<FIRfilter.jpg, id=3, 1461.46pt x 680.5425pt>
+File: FIRfilter.jpg Graphic file (type jpg)
+ <use FIRfilter.jpg>
+Package pdftex.def Info: FIRfilter.jpg used on input line 62.
+(pdftex.def)             Requested size: 216.81pt x 100.95546pt.
+ [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./filter.jpeg> <./FilterDiagram.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+<gammafilterblock.jpg, id=20, 821.0675pt x 379.4175pt>
+File: gammafilterblock.jpg Graphic file (type jpg)
+
+<use gammafilterblock.jpg>
+Package pdftex.def Info: gammafilterblock.jpg used on input line 103.
+(pdftex.def)             Requested size: 216.81pt x 100.1862pt.
+ [2 <./FIRfilter.jpg> <./gammafilterblock.jpg>]
+<Wiener2paracom.jpg, id=25, 1124.2pt x 843.15pt>
+File: Wiener2paracom.jpg Graphic file (type jpg)
+ <use Wiener2paracom.jpg>
+Package pdftex.def Info: Wiener2paracom.jpg used on input line 122.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<WienerERLE.jpg, id=26, 1124.2pt x 843.15pt>
+File: WienerERLE.jpg Graphic file (type jpg)
+ <use WienerERLE.jpg>
+Package pdftex.def Info: WienerERLE.jpg used on input line 123.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Wiener_w1_weight_zoom.jpg, id=27, 1124.2pt x 843.15pt>
+File: Wiener_w1_weight_zoom.jpg Graphic file (type jpg)
+
+<use Wiener_w1_weight_zoom.jpg>
+Package pdftex.def Info: Wiener_w1_weight_zoom.jpg used on input line 131.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Wiener_w2_weight_zoom.jpg, id=28, 1124.2pt x 843.15pt>
+File: Wiener_w2_weight_zoom.jpg Graphic file (type jpg)
+
+<use Wiener_w2_weight_zoom.jpg>
+Package pdftex.def Info: Wiener_w2_weight_zoom.jpg used on input line 132.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_ERLE.jpg, id=29, 1927.2pt x 966.61125pt>
+File: LMS_ERLE.jpg Graphic file (type jpg)
+
+<use LMS_ERLE.jpg>
+Package pdftex.def Info: LMS_ERLE.jpg used on input line 141.
+(pdftex.def)             Requested size: 252.94499pt x 126.85857pt.
+ <LMS_LC_All.jpg, id=30, 1927.2pt x 966.61125pt>
+File: LMS_LC_All.jpg Graphic file (type jpg)
+
+<use LMS_LC_All.jpg>
+Package pdftex.def Info: LMS_LC_All.jpg used on input line 148.
+(pdftex.def)             Requested size: 252.94499pt x 126.85857pt.
+ <LMS_LC_eta6.jpg, id=31, 562.1pt x 417.56pt>
+File: LMS_LC_eta6.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta6.jpg>
+Package pdftex.def Info: LMS_LC_eta6.jpg used on input line 155.
+(pdftex.def)             Requested size: 122.85876pt x 91.26456pt.
+ <LMS_WT_1.jpg, id=32, 562.1pt x 421.575pt>
+File: LMS_WT_1.jpg Graphic file (type jpg)
+
+<use LMS_WT_1.jpg>
+Package pdftex.def Info: LMS_WT_1.jpg used on input line 156.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_LC_eta4.jpg, id=33, 562.1pt x 421.575pt>
+File: LMS_LC_eta4.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta4.jpg>
+Package pdftex.def Info: LMS_LC_eta4.jpg used on input line 163.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_WT_3.jpg, id=34, 562.1pt x 421.575pt>
+File: LMS_WT_3.jpg Graphic file (type jpg)
+
+<use LMS_WT_3.jpg>
+Package pdftex.def Info: LMS_WT_3.jpg used on input line 164.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_LC_eta5.jpg, id=35, 562.1pt x 421.575pt>
+File: LMS_LC_eta5.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta5.jpg>
+Package pdftex.def Info: LMS_LC_eta5.jpg used on input line 171.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_WT_2.jpg, id=36, 562.1pt x 421.575pt>
+File: LMS_WT_2.jpg Graphic file (type jpg)
+
+<use LMS_WT_2.jpg>
+Package pdftex.def Info: LMS_WT_2.jpg used on input line 172.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_LC_eta2.jpg, id=37, 562.1pt x 421.575pt>
+File: LMS_LC_eta2.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta2.jpg>
+Package pdftex.def Info: LMS_LC_eta2.jpg used on input line 179.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_WT_5.jpg, id=38, 562.1pt x 421.575pt>
+File: LMS_WT_5.jpg Graphic file (type jpg)
+
+<use LMS_WT_5.jpg>
+Package pdftex.def Info: LMS_WT_5.jpg used on input line 180.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_LC_eta3.jpg, id=39, 562.1pt x 421.575pt>
+File: LMS_LC_eta3.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta3.jpg>
+Package pdftex.def Info: LMS_LC_eta3.jpg used on input line 187.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_WT_4.jpg, id=40, 562.1pt x 421.575pt>
+File: LMS_WT_4.jpg Graphic file (type jpg)
+
+<use LMS_WT_4.jpg>
+Package pdftex.def Info: LMS_WT_4.jpg used on input line 188.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_LC_eta1.jpg, id=41, 562.1pt x 421.575pt>
+File: LMS_LC_eta1.jpg Graphic file (type jpg)
+
+<use LMS_LC_eta1.jpg>
+Package pdftex.def Info: LMS_LC_eta1.jpg used on input line 195.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ <LMS_WT_6.jpg, id=42, 562.1pt x 421.575pt>
+File: LMS_WT_6.jpg Graphic file (type jpg)
+
+<use LMS_WT_6.jpg>
+Package pdftex.def Info: LMS_WT_6.jpg used on input line 196.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+ [3 <./Wiener2paracom.jpg> <./WienerERLE.jpg> <./Wiener_w1_weight_zoom.jpg> <./
+Wiener_w2_weight_zoom.jpg> <./LMS_ERLE.jpg> <./LMS_LC_All.jpg> <./LMS_LC_eta6.j
+pg> <./LMS_WT_1.jpg>]
+<GammaERLEaLL.jpg, id=50, 1927.2pt x 966.61125pt>
+File: GammaERLEaLL.jpg Graphic file (type jpg)
+ <use GammaERLEaLL.jpg>
+Package pdftex.def Info: GammaERLEaLL.jpg used on input line 206.
+(pdftex.def)             Requested size: 216.81pt x 108.73169pt.
+
+<ERLEcomparisonfor_bestmu_0001.jpg, id=51, 1927.2pt x 966.61125pt>
+File: ERLEcomparisonfor_bestmu_0001.jpg Graphic file (type jpg)
+
+<use ERLEcomparisonfor_bestmu_0001.jpg>
+Package pdftex.def Info: ERLEcomparisonfor_bestmu_0001.jpg used on input line 2
+29.
+(pdftex.def)             Requested size: 216.81pt x 108.73169pt.
+
+<Gamma_LC_all_mu15_M30.jpg, id=52, 562.1pt x 421.575pt>
+File: Gamma_LC_all_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_all_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_all_mu15_M30.jpg used on input line 239.
+(pdftex.def)             Requested size: 180.67499pt x 135.50499pt.
+
+<Gamma_LC_eta5_mu15_M30.jpg, id=53, 562.1pt x 421.575pt>
+File: Gamma_LC_eta5_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_eta5_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_eta5_mu15_M30.jpg used on input line 246.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_WT_eta1_mu15_M30.jpg, id=54, 562.1pt x 421.575pt>
+File: Gamma_WT_eta1_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_WT_eta1_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_WT_eta1_mu15_M30.jpg used on input line 247.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_LC_eta4_mu15_M30.jpg, id=55, 562.1pt x 421.575pt>
+File: Gamma_LC_eta4_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_eta4_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_eta4_mu15_M30.jpg used on input line 254.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_WT_eta2_mu15_M30.jpg, id=56, 562.1pt x 421.575pt>
+File: Gamma_WT_eta2_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_WT_eta2_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_WT_eta2_mu15_M30.jpg used on input line 255.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_LC_eta3_mu15_M30.jpg, id=57, 562.1pt x 421.575pt>
+File: Gamma_LC_eta3_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_eta3_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_eta3_mu15_M30.jpg used on input line 263.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_WT_eta3_mu15_M30.jpg, id=58, 562.1pt x 421.575pt>
+File: Gamma_WT_eta3_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_WT_eta3_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_WT_eta3_mu15_M30.jpg used on input line 264.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_LC_eta2_mu15_M30.jpg, id=59, 562.1pt x 421.575pt>
+File: Gamma_LC_eta2_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_eta2_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_eta2_mu15_M30.jpg used on input line 272.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_WT_eta4_mu15_M30.jpg, id=60, 562.1pt x 421.575pt>
+File: Gamma_WT_eta4_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_WT_eta4_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_WT_eta4_mu15_M30.jpg used on input line 273.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<Gamma_LC_eta1_mu15_M30.jpg, id=61, 562.1pt x 421.575pt>
+File: Gamma_LC_eta1_mu15_M30.jpg Graphic file (type jpg)
+
+<use Gamma_LC_eta1_mu15_M30.jpg>
+Package pdftex.def Info: Gamma_LC_eta1_mu15_M30.jpg used on input line 281.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<GammaWT_eta5_mu15_M30.jpg, id=62, 562.1pt x 421.575pt>
+File: GammaWT_eta5_mu15_M30.jpg Graphic file (type jpg)
+
+<use GammaWT_eta5_mu15_M30.jpg>
+Package pdftex.def Info: GammaWT_eta5_mu15_M30.jpg used on input line 282.
+(pdftex.def)             Requested size: 122.85876pt x 92.1421pt.
+
+<WienerComparison.jpg, id=63, 2569.6pt x 1503.6175pt>
+File: WienerComparison.jpg Graphic file (type jpg)
+
+<use WienerComparison.jpg>
+Package pdftex.def Info: WienerComparison.jpg used on input line 291.
+(pdftex.def)             Requested size: 252.94499pt x 148.00739pt.
+ <LMScomparison.jpg, id=64, 1927.2pt x 966.61125pt>
+File: LMScomparison.jpg Graphic file (type jpg)
+
+<use LMScomparison.jpg>
+Package pdftex.def Info: LMScomparison.jpg used on input line 296.
+(pdftex.def)             Requested size: 252.94499pt x 126.85857pt.
+ <Gamma_eta001_mu02.jpg, id=65, 1927.2pt x 966.61125pt>
+File: Gamma_eta001_mu02.jpg Graphic file (type jpg)
+
+<use Gamma_eta001_mu02.jpg>
+Package pdftex.def Info: Gamma_eta001_mu02.jpg used on input line 301.
+(pdftex.def)             Requested size: 252.94499pt x 126.85857pt.
+ [4 <./LMS_LC_eta4.jpg> <./LMS_WT_3.jpg> <./LMS_LC_eta5.jpg> <./LMS_WT_2.jpg> <
+./LMS_LC_eta2.jpg> <./LMS_WT_5.jpg> <./LMS_LC_eta3.jpg> <./LMS_WT_4.jpg> <./LMS
+_LC_eta1.jpg> <./LMS_WT_6.jpg> <./GammaERLEaLL.jpg> <./ERLEcomparisonfor_bestmu
+_0001.jpg>] [5 <./Gamma_LC_all_mu15_M30.jpg> <./Gamma_LC_eta5_mu15_M30.jpg> <./
+Gamma_WT_eta1_mu15_M30.jpg> <./Gamma_LC_eta4_mu15_M30.jpg> <./Gamma_WT_eta2_mu1
+5_M30.jpg> <./Gamma_LC_eta3_mu15_M30.jpg> <./Gamma_WT_eta3_mu15_M30.jpg> <./Gam
+ma_LC_eta2_mu15_M30.jpg> <./Gamma_WT_eta4_mu15_M30.jpg> <./Gamma_LC_eta1_mu15_M
+30.jpg> <./GammaWT_eta5_mu15_M30.jpg> <./WienerComparison.jpg>] <Gamma_eta0005_
+mu02_M100.jpg, id=73, 1927.2pt x 966.61125pt>
+File: Gamma_eta0005_mu02_M100.jpg Graphic file (type jpg)
+
+<use Gamma_eta0005_mu02_M100.jpg>
+Package pdftex.def Info: Gamma_eta0005_mu02_M100.jpg used on input line 315.
+(pdftex.def)             Requested size: 252.94499pt x 126.85857pt.
+ [6 <./LMScomparison.jpg> <./Gamma_eta001_mu02.jpg> <./Gamma_eta0005_mu02_M100.
+jpg>] <sig.jpg, id=77, 867.24pt x 487.8225pt>
+File: sig.jpg Graphic file (type jpg)
+
+<use sig.jpg>
+Package pdftex.def Info: sig.jpg used on input line 343.
+(pdftex.def)             Requested size: 252.94499pt x 142.27625pt.
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[7
+
+ <./sig.jpg>] (./Report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4269 strings out of 493089
+ 64998 string characters out of 6134842
+ 126293 words of memory out of 5000000
+ 7652 multiletter control sequences out of 15000+600000
+ 38942 words of font info for 83 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,26p,1742b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+5/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2015/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2015/texmf-dist/fon
+ts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/u
+rw/times/utmbi8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/
+utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pf
+b>
+Output written on Report.pdf (7 pages, 2260837 bytes).
+PDF statistics:
+ 137 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+

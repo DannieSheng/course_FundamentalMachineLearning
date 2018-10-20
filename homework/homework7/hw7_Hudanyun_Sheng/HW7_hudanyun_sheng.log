@@ -1,0 +1,570 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  21 NOV 2017 18:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**HW7_hudanyun_sheng.tex
+(./HW7_hudanyun_sheng.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2014/10/28 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen111
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen112
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks18
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks19
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks20
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks22
+\float@box=\box28
+\@float@everytoks=\toks23
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen122
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen123
+\subfiglabelskip=\skip49
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count108
+\lst@gtempboxa=\box30
+\lst@token=\toks24
+\lst@length=\count109
+\lst@currlwidth=\dimen124
+\lst@column=\count110
+\lst@pos=\count111
+\lst@lostspace=\dimen125
+\lst@width=\dimen126
+\lst@newlines=\count112
+\lst@lineno=\count113
+\lst@maxwidth=\dimen127
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count114
+\lst@skipnumbers=\count115
+\lst@framebox=\box31
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+(./HW7_hudanyun_sheng.aux
+
+LaTeX Warning: Label `FFS' multiply defined.
+
+)
+\openout1 = `HW7_hudanyun_sheng.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=517.84052pt
+* \textheight=702.78308pt
+* \oddsidemargin=-32.43631pt
+* \evensidemargin=-32.43631pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen128
+\scratchbox=\box32
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen129
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count122
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
+
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+
+<noNormalizetable.jpg, id=19, 1840.8775pt x 463.7325pt>
+File: noNormalizetable.jpg Graphic file (type jpg)
+
+<use noNormalizetable.jpg>
+Package pdftex.def Info: noNormalizetable.jpg used on input line 48.
+(pdftex.def)             Requested size: 542.025pt x 136.53809pt.
+
+Overfull \hbox (24.18448pt too wide) in paragraph at lines 48--51
+ [][] 
+ []
+
+<FFS.jpg, id=20, 878.28125pt x 658.46pt>
+File: FFS.jpg Graphic file (type jpg)
+ <use FFS.jpg>
+Package pdftex.def Info: FFS.jpg used on input line 57.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [2 <./noNormalizetable.jpg> <./FFS.jpg>] <NormalizetableFFS.jpg, id=24, 1862.9
+6pt x 479.7925pt>
+File: NormalizetableFFS.jpg Graphic file (type jpg)
+
+<use NormalizetableFFS.jpg>
+Package pdftex.def Info: NormalizetableFFS.jpg used on input line 66.
+(pdftex.def)             Requested size: 542.025pt x 139.59015pt.
+
+Overfull \hbox (24.18448pt too wide) in paragraph at lines 66--69
+ [][] 
+ []
+
+<FFSnorm.jpg, id=25, 878.28125pt x 658.46pt>
+File: FFSnorm.jpg Graphic file (type jpg)
+ <use FFSnorm.jpg>
+Package pdftex.def Info: FFSnorm.jpg used on input line 75.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [3 <./NormalizetableFFS.jpg> <./FFSnorm.jpg>]
+<noNormalizetableBFS.jpg, id=29, 1840.8775pt x 431.6125pt>
+File: noNormalizetableBFS.jpg Graphic file (type jpg)
+
+<use noNormalizetableBFS.jpg>
+Package pdftex.def Info: noNormalizetableBFS.jpg used on input line 88.
+(pdftex.def)             Requested size: 542.025pt x 127.0809pt.
+
+Overfull \hbox (24.18448pt too wide) in paragraph at lines 88--91
+ [][] 
+ []
+
+<BFS.jpg, id=30, 878.28125pt x 658.46pt>
+File: BFS.jpg Graphic file (type jpg)
+ <use BFS.jpg>
+Package pdftex.def Info: BFS.jpg used on input line 97.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [4 <./noNormalizetableBFS.jpg> <./BFS.jpg>] <NormalizetableBFS.jpg, id=34, 186
+4.9675pt x 449.68pt>
+File: NormalizetableBFS.jpg Graphic file (type jpg)
+
+<use NormalizetableBFS.jpg>
+Package pdftex.def Info: NormalizetableBFS.jpg used on input line 107.
+(pdftex.def)             Requested size: 542.025pt x 130.69203pt.
+
+Overfull \hbox (24.18448pt too wide) in paragraph at lines 107--110
+ [][] 
+ []
+
+<BFSnorm.jpg, id=35, 878.28125pt x 658.46pt>
+File: BFSnorm.jpg Graphic file (type jpg)
+ <use BFSnorm.jpg>
+Package pdftex.def Info: BFSnorm.jpg used on input line 116.
+(pdftex.def)             Requested size: 289.07999pt x 216.72983pt.
+ [5 <./NormalizetableBFS.jpg> <./BFSnorm.jpg>] <allresult.jpg, id=39, 1180.41pt
+ x 216.81pt>
+File: allresult.jpg Graphic file (type jpg)
+
+<use allresult.jpg>
+Package pdftex.def Info: allresult.jpg used on input line 152.
+(pdftex.def)             Requested size: 433.62pt x 79.6428pt.
+ [6] [7 <./allresult.jpg>]
+<p1and2.jpg, id=47, 878.28125pt x 658.46pt>
+File: p1and2.jpg Graphic file (type jpg)
+ <use p1and2.jpg>
+Package pdftex.def Info: p1and2.jpg used on input line 170.
+(pdftex.def)             Requested size: 108.405pt x 81.27243pt.
+
+<p1and3.jpg, id=48, 878.28125pt x 658.46pt>
+File: p1and3.jpg Graphic file (type jpg)
+ <use p1and3.jpg>
+Package pdftex.def Info: p1and3.jpg used on input line 171.
+(pdftex.def)             Requested size: 108.405pt x 81.27243pt.
+
+<p2and3.jpg, id=49, 878.28125pt x 658.46pt>
+File: p2and3.jpg Graphic file (type jpg)
+ <use p2and3.jpg>
+Package pdftex.def Info: p2and3.jpg used on input line 172.
+(pdftex.def)             Requested size: 108.405pt x 81.27243pt.
+
+<p3d.jpg, id=50, 878.28125pt x 658.46pt>
+File: p3d.jpg Graphic file (type jpg)
+ <use p3d.jpg>
+Package pdftex.def Info: p3d.jpg used on input line 173.
+(pdftex.def)             Requested size: 108.405pt x 81.27243pt.
+
+<scatter2d.jpg, id=51, 1927.2pt x 966.61125pt>
+File: scatter2d.jpg Graphic file (type jpg)
+ <use scatter2d.jpg>
+Package pdftex.def Info: scatter2d.jpg used on input line 205.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+ [8 <./p1and2.jpg> <./p1and3.jpg> <./p2and3.jpg> <./p3d.jpg>]
+<scatter3d.jpg, id=56, 1927.2pt x 966.61125pt>
+File: scatter3d.jpg Graphic file (type jpg)
+ <use scatter3d.jpg>
+Package pdftex.def Info: scatter3d.jpg used on input line 210.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+
+<EM3.jpg, id=57, 2427.0675pt x 558.085pt>
+File: EM3.jpg Graphic file (type jpg)
+ <use EM3.jpg>
+Package pdftex.def Info: EM3.jpg used on input line 216.
+(pdftex.def)             Requested size: 505.89pt x 116.32419pt.
+
+<EM4.jpg, id=58, 2421.045pt x 654.445pt>
+File: EM4.jpg Graphic file (type jpg)
+ <use EM4.jpg>
+Package pdftex.def Info: EM4.jpg used on input line 223.
+(pdftex.def)             Requested size: 505.89pt x 136.74846pt.
+ [9 <./scatter2d.jpg> <./scatter3d.jpg> <./EM3.jpg>] <scatter2d4.jpg, id=62, 19
+27.2pt x 966.61125pt>
+File: scatter2d4.jpg Graphic file (type jpg)
+
+<use scatter2d4.jpg>
+Package pdftex.def Info: scatter2d4.jpg used on input line 229.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+ <scatter3d4.jpg, id=63, 1927.2pt x 966.61125pt>
+File: scatter3d4.jpg Graphic file (type jpg)
+
+<use scatter3d4.jpg>
+Package pdftex.def Info: scatter3d4.jpg used on input line 235.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+ [10 <./EM4.jpg> <./scatter2d4.jpg>]
+<EM5.jpg, id=67, 2364.835pt x 762.85pt>
+File: EM5.jpg Graphic file (type jpg)
+ <use EM5.jpg>
+Package pdftex.def Info: EM5.jpg used on input line 243.
+(pdftex.def)             Requested size: 505.89pt x 163.1831pt.
+
+<scatter2d5.jpg, id=68, 1927.2pt x 966.61125pt>
+File: scatter2d5.jpg Graphic file (type jpg)
+ <use scatter2d5.jpg>
+Package pdftex.def Info: scatter2d5.jpg used on input line 249.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+ [11 <./scatter3d4.jpg> <./EM5.jpg>] <scatter3d5.jpg, id=72, 1927.2pt x 966.611
+25pt>
+File: scatter3d5.jpg Graphic file (type jpg)
+
+<use scatter3d5.jpg>
+Package pdftex.def Info: scatter3d5.jpg used on input line 254.
+(pdftex.def)             Requested size: 433.62pt x 217.47815pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+[12 <./scatter2d5.jpg> <./scatter3d5.jpg>] [13]
+Overfull \hbox (22.16498pt too wide) in paragraph at lines 285--286
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[14]
+Overfull \hbox (4.1648pt too wide) in paragraph at lines 304--305
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 316.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 316.
+
+Overfull \hbox (4.1648pt too wide) in paragraph at lines 323--324
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[15] [16] [17] [18] [19] (./HW7_hudanyun_sheng.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4537 strings out of 493089
+ 63603 string characters out of 6134842
+ 150698 words of memory out of 5000000
+ 7930 multiletter control sequences out of 15000+600000
+ 8428 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,8n,32p,722b,1453s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
+cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/
+2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on HW7_hudanyun_sheng.pdf (19 pages, 4162994 bytes).
+PDF statistics:
+ 144 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
